@@ -94,7 +94,7 @@ if result:
     elif in_lang == "Japonés":
         input_language = "ja"
     elif in_lang == "Alemán":
-        input_language = "al"
+        input_language = "de"
     elif in_lang == "Francés":
         input_language = "fr"
     
@@ -115,7 +115,7 @@ if result:
     elif out_lang == "Japonés":
         output_language = "ja"
     elif out_lang == "Alemán":
-        output_language = "al"
+        output_language = "de"
     elif out_lang == "Francés":
         output_language = "fr"
     
